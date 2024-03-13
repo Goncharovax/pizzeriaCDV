@@ -1,0 +1,3 @@
+# Opis zespolu 
+
+tresc
