@@ -7,3 +7,6 @@
 4. WEJSKA
 5. MILANO
 
+## Vege menu 
+1.Coctails
+2.Zupa
