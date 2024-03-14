@@ -1,2 +1,2 @@
 # pizzeriaCDV
-To repozitorium zawiera dokumenty i pliki dla pizzerii.
+ten plik nalezy do galenzi Vege.
