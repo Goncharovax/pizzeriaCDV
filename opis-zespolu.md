@@ -1,3 +1,5 @@
-# Opis zespolu 
+# Opis zespo
 
-tresc
+## Kierownik
+## Dostawca
+## Grafik
