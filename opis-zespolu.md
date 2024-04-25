@@ -3,3 +3,5 @@
 ## Kierownik
 ## Dostawca
 ## Grafik
+## Kucharz
+## Obsluga
