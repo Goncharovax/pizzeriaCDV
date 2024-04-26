@@ -10,3 +10,8 @@
 ## Vege menu 
 1.Coctails
 2.Zupa
+
+## Dodatki
+1.Cukinia-5
+2.Korczochy-5
+3.Krewetki-10
